@@ -1,7 +1,7 @@
 Part1 经典机器学习
 一、机器学习基础
     1、Bias-variance tradeoff
-    
+    2、Taylor Expansion
 
 二、逻辑回归
     1、LR损失函数和梯度下降推导
